@@ -31,18 +31,21 @@ GitHub Repository: https://github.com/Michael-Bee/E-Commerce_Back_End
 [![Watch the E-Commerce Back End Demo](<!--- file location --->)](<!--- file location --->)
 
 ## <span id="description">Description:</span>
-A content management system to view and manage departments, roles, and employees.
+A back end for an e-commerce site with a working Express.js API that uses Sequelize to interact with a MySQL database.
 
 
 ## <span id="technologies">Technologies:</span>
 * Javascript
 * Node.js
+* Express.js
 * MySQL
+* Sequelize
 
 ## <span id="installation">Installation:</span>
 1. Clone the remote repository from GitHub
 2. Install dependencies: `nmp install`
-3. initiate program: `node index`
+3. Seed the Database: `npm run seed`
+4. initiate program: `npm start`
 
 
 ## <span id="usage">Usage:</span>
@@ -58,7 +61,6 @@ A content management system to view and manage departments, roles, and employees
 
 
 ## <span id="testing">Testing:</span>
-
 
 
 ## <span id="contact">Questions:</span>
